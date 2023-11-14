@@ -24,5 +24,3 @@ export const Heroes = () => {
     </div>
   );
 };
-
-export default Heroes;
